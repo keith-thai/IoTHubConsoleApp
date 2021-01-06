@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleappIoT
 {
-    // KTT - 1/5/2021
+    // KTT - 1/5/2021 - Committed from local
     class Program
     {
         //You can get the DeviceConnectionString from your IoT Hub on the Azure Portal
